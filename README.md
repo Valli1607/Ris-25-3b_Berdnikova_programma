@@ -1,4 +1,11 @@
 # Ris-25-3b_Berdnikova_programma
+***Berdnikova Valeria***
+**Ris-25-3b**
+|номер|название|статус|
+|-|--|---|
+|1|lab| |
+|2|lab| |
+
 <https://habr.com/ru/companies/2gis/articles/306166/>
 [sehyilbb](https://habr.com/ru/companies/2gis/articles/306166/ "iuesgjsi")
 [olxbij;osjbo][pstu]
